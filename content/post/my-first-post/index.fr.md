@@ -2,15 +2,8 @@
 author = "Francis sauch"
 title = "Bienvenue!"
 date = "2022-10-30"
-description = "Bienvenue sur mon blog"
-tags = [
-    "shortcodes",
-    "privacy",
-]
-categories = [
-    "prout"
-]
+description = "1001000 01100101 01101100 01101100 01101111 00100001"
 +++
 
-Welcome to my personal blog.  
-I plan to talk about software development, DevOps, technology, problems I encounter and how I solve them.
+Bienvenue sur mon modeste blog.
+Ou je parlerai de dévelopement logiciel, de DevOps, de tech mais principalement ou je parlerai des problèmes sur lesquels j'ai pu bloquer, au cas ou ça pourrait aider quelqu'un d'autre.
