@@ -2,18 +2,18 @@ baseurl: https://fsauch.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Francis Sauch
+title: Casus blogis
 
 languages:
     en:
         languageName: English
-        title: Francis Sauch
-        description: Yet another blog
+        title: Casus blogis
+        description: Yet another blog about tech
         weight: 1
     fr:
         languageName: Francais
-        title: Francis Sauch
-        description: Blogus poopus
+        title: Casus blogis
+        description: Encore un blog de tech
         weight: 2
 
 # GA Tracking ID
@@ -43,12 +43,11 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: avatar.png
 
     article:
         math: false
@@ -111,15 +110,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/fsauch/fsauch.github.io
           params:
               icon: brand-github
 
         - identifier: linkedin
           name: Linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/fsauch/
           params:
-              icon: brand-twitter
+              icon: linkedin
 
 related:
     includeNewer: true
